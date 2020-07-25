@@ -1,0 +1,2 @@
+CLS
+ARJ A -VA A:TOMBO

@@ -1,0 +1,38 @@
+
+[menu]
+
+submenu=Ram,Usar um Ram-Drive
+menuitem=SemRam,Sem Ram-Drive
+menudefault=SemRam,10
+
+[Ram]
+
+menuitem=UsarRam10,Usar o Ram-Drive de 10 Megas
+menuitem=UsarRam5,Usar o Ram-Drive de 5 Megas
+menuitem=UsarRam1,Usar o Ram-Drive de 1 Mega
+
+[SemRam]
+
+; COMANDOS NORMAIS DO CONFIG.SYS
+
+device=c:\Windows\Command\Ansi.sys
+device=C:\WINDOWS\COMMAND\display.sys con=(ega,,1)
+Country=055,850,C:\WINDOWS\COMMAND\country.sys
+FILES=90
+BUFFERS=15
+DEVICEHIGH=C:\WINDOWS\COMMAND\DRVSPACE.SYS /MOVE
+
+[UsarRam10]
+device=c:\windows\himem.sys
+device=c:\windows\ramdrive.sys 10000,512 /E
+include=SemRam
+
+[UsarRam5]
+device=c:\windows\himem.sys
+device=c:\windows\ramdrive.sys 5000,512 /E
+include=SemRam
+
+[UsarRam1]
+device=c:\windows\himem.sys
+device=c:\windows\ramdrive.sys 1000,512 /E
+include=SemRam

@@ -1,0 +1,123 @@
+GAS-Pro v4.0
+
+[Ÿ]
+ 1 
+GASTOS
+Gastos por produto
+
+PRODUTOS->des_pro+cod_pro
+dat_gas>=M->dt_ini.and.dat_gas<=M->dt_fin
+057
+2
+GASTOS POR PRODUTO
+
+
+
+PROCESSANDO GRAFICO...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+-1 
+ 70 
+ 60 
+ 90 
+ 100 
+ 1 
+ 1 
+ 1 
+ 2 
+ 3 
+ 0 
+ 0 
+ 0 
+ 0 
+Valores
+qtd_gas*vlr_gas
+
+ 0 
+
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 0 
+ 1 
+PRODUTOS->des_pro
+
+cod_pro
+
+
+ 0 
+ 1 
+PRODUTOS
+ 1 
+cod_pro
+
+
+

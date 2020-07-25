@@ -1,0 +1,13 @@
+Titulo = GASTOS POR CATEGORIA
+Tipo = 2 
+Titulo X = 
+Titulo Y = 
+Porta = LPT1
+Tamanho texto titulo = 1
+Posicao do titulo = Esquerdo
+Quantidade Linhas = 1
+Quantidade Colunas = 4
+[DADOS]
+"ALIMENTACAO","AUTOMOVEL","BEBIDAS E CIGARROS","DIVERSOS"
+"",76.720,35.000,136.730,5.150
+

@@ -1,0 +1,28 @@
+/*
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \ Empresa.: MCB SISTEMAS
+ \ Programa: MET_03F9.PRG
+ \ Data....: 05-10-06
+ \ Sistema.: ORCAMENTO DE FINAIS DE SEMANA
+ \ Funcao..: F¢rmula (Gasto sem. 1) a mostrar na tela de METAS
+ \ Analista: MARCIUS C. BEZERRA
+ \ Criacao.: Programado manualmente pelo analista
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+*/
+
+#include "orfin.ch"     // inicializa constantes manifestas
+
+/*
+   -------------------------------------------------------------------
+   Se abrir outros arquivos salve situacao anterior e restaure ao sair
+   como no exemplo abaixo:
+     LOCAL reg_dbf:=POINTER_DBF()
+     ...        ...        ...        ...
+     POINTER_DBF(reg_dbf)
+     RETU
+   -------------------------------------------------------------------
+*/
+
+RETU 0     // <- deve retornar um valor qualquer
+
+* \\ Final de MET_03F9.PRG

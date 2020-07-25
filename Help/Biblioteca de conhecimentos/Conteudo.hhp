@@ -1,0 +1,35 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Conteudo.chm
+Contents file=Contents.hhc
+Default topic=Conteudo.htm
+Display compile progress=Yes
+Flat=Yes
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x416 Português (Brasil)
+Title=Biblioteca de Conhecimentos
+
+
+[FILES]
+Conteudo.htm
+
+[MERGE FILES]
+Biblio.chm
+DelphiCS.chm
+ib_figs.chm
+cust_inst_min_ib6.chm
+erros_do_interbase.chm
+conectando_delphi_com_mysql.chm
+utilizando_os_componentes_da_pal.chm
+apostila_ib_56.chm
+guia_rapido_de_configuracao_fb.chm
+sql_interbase.chm
+asp_upload_sem_comp.chm
+criar_banco_access_asp.chm
+usuario_registrado.chm
+procedure_para_exportar_o_reg.chm
+Pegar a saída (output) do DOS.chm
+
+[INFOTYPES]
+

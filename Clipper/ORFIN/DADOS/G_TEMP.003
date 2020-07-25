@@ -1,0 +1,13 @@
+Titulo = GASTOS POR SUB-CATEGORIA
+Tipo = 2 
+Titulo X = 
+Titulo Y = 
+Porta = LPT1
+Tamanho texto titulo = 1
+Posicao do titulo = Esquerdo
+Quantidade Linhas = 1
+Quantidade Colunas = 10
+[DADOS]
+"BEBIDAS","CAFE DA MANHA","CIGARROS","DIVERSOS","DIVERSOS","INGREDIENTES","LANCHE","PECAS","PEIXE","REFEICAO"
+"",101.880,19.000,34.850,15.000,5.150,2.450,36.090,20.000,4.180,15.000
+

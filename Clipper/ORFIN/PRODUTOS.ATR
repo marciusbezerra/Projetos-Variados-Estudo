@@ -1,0 +1,237 @@
+GAS-Pro v4.0
+010008016075001004021001014000176001
+ Codigo......:
+ Descricao...:
+ Categoria...:     -
+ Subcategoria:     -
+ Unidade.....:
+
+
+
+
+
+
+
+
+
+²/²/²/²/²/²/²/²/²/²²ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+[Ÿ]
+Cadastrar~~26006ÿÿ 1
+Modificar~~27007ÿÿ 1
+Pesquisar~~28008ÿÿ 1
+[Ÿ]
+ 5 
+ 2 
+Codigo do produto
+
+ 1 
+[Ÿ]
+Descricao do produto
+
+ 2 
+[Ÿ]
+Produtos e servicos
+Produtos e servicos
+
+
+
+
+
+
+
+005
+
+
+
+
+
+
+
+004003022078001001001001005000176001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 1 
+-1 
+-1 
+ 0 
+-1 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+cod_pro
+C
+V
+9999
+ 4 
+ 4 
+ 1 
+ 16 
+ 0 
+Codigo
+
+
+
+
+
+
+ 0 
+ 1 
+
+
+des_pro
+C
+E
+@!
+ 50 
+ 50 
+ 2 
+ 16 
+ 0 
+Descricao
+
+!EMPT(des_pro)
+Necess rio informar a descricao
+
+Descricao de produto ou servico
+
+ 0 
+ 0 
+
+
+cod_cat
+C
+E
+999
+ 3 
+ 3 
+ 3 
+ 16 
+ 0 
+Categoria
+VDBF(6,24,20,77,'CATS',{'des_cat'},2,'cod_cat',[])
+PTAB(cod_cat,'CATS',1)
+Categoria nao encontrada (Pressione F8)
+
+Pressione F8 para selecionar uma categoria
+VDBF(6,24,20,77,'CATS',{'des_cat'},2,'cod_cat',[])
+ 0 
+ 0 
+
+
+cod_sub
+C
+E
+999
+ 3 
+ 3 
+ 4 
+ 16 
+ 0 
+Subcategoria
+VDBF(6,24,20,77,'SUBCATS',{'des_sub'},2,'cod_sub',[cod_cat=CATS->cod_cat])
+PTAB(cod_cat+cod_sub,'SUBCATS',1)
+Subcategoria invalida (Pressione F8)
+
+Pressione F8 para selecionar uma subcategoria
+VDBF(6,24,20,77,'SUBCATS',{'des_sub'},2,'cod_sub',[cod_cat=CATS->cod_cat])
+ 0 
+ 0 
+
+
+uni_pro
+C
+E
+@!
+ 10 
+ 10 
+ 5 
+ 16 
+ 0 
+Unidade
+
+!EMPT(uni_pro)
+Informe uma unidade ou pressione F8 para selecione uma
+'UNIDADE'
+Pressione F8 para unidades de medida
+MTAB([UNIDADE|CAIXA|GARRAFA|ML|METRO|PACOTE|KIT|LITRO|KG],[UNIDADE])
+ 0 
+ 0 
+
+
+ 2 
+f_des_cat
+CATS->des_cat
+@!
+ 3 
+ 22 
+ 44 
+
+f_des_sub
+SUBCATS->des_sub
+@!
+ 4 
+ 22 
+ 44 
+
+ 0 
+ 0 
+ 0 
+ 0 

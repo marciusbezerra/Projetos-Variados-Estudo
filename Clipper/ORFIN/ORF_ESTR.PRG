@@ -1,0 +1,73 @@
+/*
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \ Empresa.: MCB SISTEMAS
+ \ Programa: ORF_ESTR.PRG
+ \ Data....: 03-11-06
+ \ Sistema.: ORCAMENTO DE FINAIS DE SEMANA
+ \ Funcao..: Cria estrutura dos arquivos
+ \ Analista: MARCIUS C. BEZERRA
+ \ Criacao.: GAS-Pro v4.0o
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+*/
+#include "orfin.ch"     // inicializa constantes manifestas
+
+PROC CAT_estr     // estrutura do arquivo CATS
+DBCREATE(dbf,{;
+               {"cod_cat"   ,"C",  3, 0},; // 999
+               {"des_cat"   ,"C", 50, 0},; // @!
+               {"intref"    ,"N",  8, 0};  // 99999999
+             };
+)
+RETU
+
+PROC SUB_estr     // estrutura do arquivo SUBCATS
+DBCREATE(dbf,{;
+               {"cod_cat"   ,"C",  3, 0},; // 999
+               {"cod_sub"   ,"C",  3, 0},; // 999
+               {"des_sub"   ,"C", 50, 0},; // @!
+               {"flag_excl" ,"C",  1, 0},; // !
+               {"intref"    ,"N",  8, 0};  // 99999999
+             };
+)
+RETU
+
+PROC PRO_estr     // estrutura do arquivo PRODUTOS
+DBCREATE(dbf,{;
+               {"cod_pro"   ,"C",  4, 0},; // 9999
+               {"des_pro"   ,"C", 50, 0},; // @!
+               {"cod_cat"   ,"C",  3, 0},; // 999
+               {"cod_sub"   ,"C",  3, 0},; // 999
+               {"uni_pro"   ,"C", 10, 0},; // @!
+               {"intref"    ,"N",  8, 0};  // 99999999
+             };
+)
+RETU
+
+PROC MET_estr     // estrutura do arquivo METAS
+DBCREATE(dbf,{;
+               {"mes_met"   ,"N",  2, 0},; // 99
+               {"ano_met"   ,"N",  4, 0},; // 9999
+               {"met_met"   ,"N", 10, 2},; // @E 9,999,999.99
+               {"se1_met"   ,"N",  2, 0},; // 99
+               {"se2_met"   ,"N",  2, 0},; // 99
+               {"se3_met"   ,"N",  2, 0},; // 99
+               {"se4_met"   ,"N",  2, 0};  // 99
+             };
+)
+RETU
+
+PROC GAS_estr     // estrutura do arquivo GASTOS
+DBCREATE(dbf,{;
+               {"mes_met"   ,"N",  2, 0},; // 99
+               {"ano_met"   ,"N",  4, 0},; // 9999
+               {"cod_gas"   ,"C",  6, 0},; // 999999
+               {"dat_gas"   ,"D",  8, 0},; // @D
+               {"cod_pro"   ,"C",  4, 0},; // 9999
+               {"qtd_gas"   ,"N",  5, 1},; // @E 999.9
+               {"vlr_gas"   ,"N", 10, 2},; // @E 9,999,999.99
+               {"flag_excl" ,"C",  1, 0};  // !
+             };
+)
+RETU
+
+* \\ Final de ORF_ESTR.PRG

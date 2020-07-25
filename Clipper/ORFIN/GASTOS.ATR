@@ -1,0 +1,274 @@
+GAS-Pro v4.0
+005001020080001014066001019001197001
+Data      ³Produto                            ³Qtd. ³Valor Unit. ³Total
+ÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+          ³    -                              ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+          ³                                   ³     ³            ³
+[Ÿ]
+Inclus„o~~26006
+Manuten‡„o~~27007
+Consulta~~28008
+[Ÿ]
+ 7 
+ 1 
+Mes/Ano
+
+ 1 
+ 2 
+ 3 
+[Ÿ]
+Gastos diarios
+Gastos diarios
+
+
+
+
+
+
+
+005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 0 
+-1 
+-1 
+-1 
+-1 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+mes_met
+N
+I
+99
+ 2 
+ 2 
+ 0 
+ 0 
+ 0 
+Mes/Ano
+
+
+
+
+
+
+-1 
+ 0 
+
+
+ano_met
+N
+I
+9999
+ 4 
+ 4 
+ 0 
+ 0 
+ 0 
+Mes/Ano
+
+
+
+
+
+
+-1 
+ 0 
+
+
+cod_gas
+C
+V
+999999
+ 6 
+ 6 
+ 0 
+ 0 
+ 0 
+Cod_gas
+
+
+
+
+
+
+ 0 
+ 1 
+
+
+dat_gas
+D
+E
+@D
+ 8 
+ 10 
+ 3 
+ 1 
+ 0 
+Data
+
+month(dat_gas)=METAS->mes_met.and.year(dat_gas)=METAS->ano_met
+O mes e ano devem ser os mesmos da meta
+date()
+Data do gasto
+
+ 0 
+ 0 
+
+
+cod_pro
+C
+E
+9999
+ 4 
+ 4 
+ 3 
+ 12 
+ 0 
+Produto
+VDBF(6,24,20,77,'PRODUTOS',{'des_pro'},2,'cod_pro',[])
+PTAB(cod_pro,'PRODUTOS',1)
+Produto nao localizado
+
+Pressione F8 para lista de produtos e servicos
+VDBF(6,24,20,77,'PRODUTOS',{'des_pro'},2,'cod_pro',[])
+ 0 
+ 0 
+
+
+qtd_gas
+N
+E
+@E 999.9
+ 5 
+ 5 
+ 3 
+ 48 
+ 1 
+Quantidade
+
+qtd_gas>0
+A quantidade deve ser maior que 0
+1
+Quantidade usada
+
+ 0 
+ 0 
+
+
+vlr_gas
+N
+E
+@E 9,999,999.99
+ 10 
+ 12 
+ 3 
+ 54 
+ 2 
+Valor Unitario
+
+vlr_gas>0
+O valor unitario deve ser maior que 0
+
+Valor de uma unidade do produto
+
+ 0 
+ 0 
+
+
+ 2 
+Valor total
+qtd_gas*vlr_gas
+@E 9,999,999.99
+ 3 
+ 67 
+ 12 
+
+Nome produto
+PRODUTOS->des_pro
+@!
+ 3 
+ 17 
+ 30 
+
+ 0 
+ 0 
+ 0 
+ 0 

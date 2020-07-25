@@ -1,0 +1,139 @@
+GAS-Pro v4.0
+011028014055001001001001012000176001
+ Data inicial:
+ Data final..:
+[Ÿ]
+[Ÿ]
+ 2 
+ 0 
+Periodo
+Periodo
+
+
+
+
+
+
+
+056
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+dt_ini
+D
+E
+@D
+ 8 
+ 10 
+ 1 
+ 16 
+ 0 
+Data inicial
+
+!EMPT(dt_ini)
+Informe a data inicial do periodo
+ctod('01/'+str(month(date()))+'/'+str(year(date())))
+Informe a data inicial do periodo
+
+ 0 
+ 0 
+
+
+dt_fin
+D
+E
+@D
+ 8 
+ 10 
+ 2 
+ 16 
+ 0 
+Data final
+
+dt_fin>=dt_ini
+Informe uma data maior ou igual a inicial
+date()
+Informe a data final do periodo
+
+ 0 
+ 0 
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 

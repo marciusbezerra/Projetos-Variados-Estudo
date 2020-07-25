@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Programa&ccedil;&atilde;o">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Borland Delphi">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Dicas">
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="ib_figs.chm::\toc.hhc">
+
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="usuario_registrado.chm::\Contents.hhc">
+
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="procedure_para_exportar_o_reg.chm::\Contents.hhc">
+
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="Pegar a sa&iacute;da (output) do DOS.chm::\Contents.hhc">
+
+				</OBJECT>
+		</UL>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="Biblio.chm::\Biblio.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="DelphiCS.chm::\Contents.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="conectando_delphi_com_mysql.chm::\toc.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="utilizando_os_componentes_da_pal.chm::\toc.hhc">
+
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Interbase / Firebird">
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="cust_inst_min_ib6.chm::\toc.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="erros_do_interbase.chm::\toc.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="guia_rapido_de_configuracao_fb.chm::\Contents.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="sql_interbase.chm::\Contents.hhc">
+
+			</OBJECT>
+		<OBJECT type="text/sitemap">
+			<param name="Merge" value="apostila_ib_56.chm::\toc.hhc">
+
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Internet">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ASP">
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="asp_upload_sem_comp.chm::\Contents.hhc">
+
+				</OBJECT>
+			<OBJECT type="text/sitemap">
+				<param name="Merge" value="criar_banco_access_asp.chm::\Contents.hhc">
+
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

@@ -1,0 +1,168 @@
+GAS-Pro v4.0
+003024005060001001004001004000176001
+   ORCAMENTO DE FINAIS DE SEMANA
+[Ÿ]
+[Ÿ]
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+Nome da empresa
+nemp
+
+ 0 
+ 0 
+ 12 
+
+T¡tulo aplica‡„o
+nsis
+
+ 0 
+ 0 
+ 29 
+
+Data do sistema
+DATE()
+
+ 0 
+ 0 
+ 10 
+
+Nome do mˆs
+NMES(DATE())
+
+ 0 
+ 0 
+ 8 
+
+Dia da semana
+NSEM(DATE())
+
+ 0 
+ 0 
+ 7 
+
+Diret¢rio atual
+LEFT(drvdbf,23)
+
+ 0 
+ 0 
+ 23 
+
+Nome do usu rio
+PADR(usuario,15)
+
+ 0 
+ 0 
+ 15 
+
+Obs do usu rio
+PADR(obs_usuario,15)
+
+ 0 
+ 0 
+ 15 
+
+Rel¢gio hh:mm
+LEFT(TIME(),5)
+
+ 0 
+ 0 
+ 5 
+
+Rel¢gio hh:mm:ss
+LEFT(TIME(),8)
+
+ 0 
+ 0 
+ 8 
+
+ 0 
+ 0 
+ 0 
+ 0 

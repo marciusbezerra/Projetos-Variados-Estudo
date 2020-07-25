@@ -1,0 +1,129 @@
+GAS-Pro v4.0
+
+[Ÿ]
+ 1 
+GASTOS
+Gastos por categoria
+
+CATS->des_cat+CATS->cod_cat
+dat_gas>=M->dt_ini.and.dat_gas<=M->dt_fin
+057
+2
+GASTOS POR CATEGORIA
+
+
+
+PROCESSANDO GRAFICO...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+-1 
+ 70 
+ 60 
+ 90 
+ 100 
+ 1 
+ 1 
+ 1 
+ 2 
+ 3 
+ 0 
+ 0 
+ 0 
+ 0 
+Valores
+qtd_gas*vlr_gas
+
+ 0 
+
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 0 
+ 1 
+CATS->des_cat
+
+CATS->cod_cat
+
+
+ 0 
+ 2 
+PRODUTOS
+ 1 
+cod_pro
+
+
+
+CATS
+ 1 
+PRODUTOS->cod_cat
+
+
+

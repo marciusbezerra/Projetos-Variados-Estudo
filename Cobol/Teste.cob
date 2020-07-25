@@ -1,0 +1,15 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. MEDIA.
+ENVIROPMENT DIVISION.
+  DATA DIVISION.
+   77 NUM1     PIC 999.
+   77 NUM2     PIC 999.
+   77 MEDIA    PIC 999.
+  PROCEDURE DIVISION.
+                DISPLAY "PRIMEIRO NUMERO:".
+                ACCEPT NUM1.
+                DISPLAY "SEGUNDO NUMERO:".
+                ACCEPT NUM2.
+                COMPUTE MEDIA=(NUM1+NUM2)/2.
+                DISPLAY "MEDIA:" MEDIA.
+                STOP RUN.

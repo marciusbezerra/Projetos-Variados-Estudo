@@ -1,0 +1,1109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+                        ЫЫЫ   ЫЫЫЫ    ЫЫЫЫ   ЫЫЫ   Ы   Ы  ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ   ЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+                       Ы   Ы  Ы   Ы  Ы      Ы   Ы  ЫЫ ЫЫ  Ы      ЫЫ  Ы    Ы    Ы   Ы      Ы   Ы  Ы      
+                       Ы   Ы  ЫЫЫЫ   Ы      ЫЫЫЫЫ  Ы Ы Ы  ЫЫЫ    Ы Ы Ы    Ы    Ы   Ы      Ы   Ы  ЫЫЫ    
+                       Ы   Ы  Ы  Ы   Ы      Ы   Ы  Ы   Ы  Ы      Ы  ЫЫ    Ы    Ы   Ы      Ы   Ы  Ы      
+                        ЫЫЫ   Ы   Ы   ЫЫЫЫ  Ы   Ы  Ы   Ы  ЫЫЫЫЫ  Ы   Ы    Ы     ЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                                 ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ   ЫЫЫЫЫ   ЫЫЫЫ      ЫЫЫЫ   ЫЫЫЫЫ  
+                                 Ы        Ы    ЫЫ  Ы  Ы   Ы    Ы    Ы          Ы   Ы  Ы      
+                                 ЫЫЫ      Ы    Ы Ы Ы  ЫЫЫЫЫ    Ы     ЫЫЫ       Ы   Ы  ЫЫЫ    
+                                 Ы        Ы    Ы  ЫЫ  Ы   Ы    Ы        Ы      Ы   Ы  Ы      
+                                 Ы      ЫЫЫЫЫ  Ы   Ы  Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                                             ЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ   Ы   Ы   ЫЫЫ   
+                                            Ы      Ы      ЫЫ ЫЫ  Ы   Ы  ЫЫ  Ы  Ы   Ы  
+                                             ЫЫЫ   ЫЫЫ    Ы Ы Ы  ЫЫЫЫЫ  Ы Ы Ы  ЫЫЫЫЫ  
+                                                Ы  Ы      Ы   Ы  Ы   Ы  Ы  ЫЫ  Ы   Ы  
+                                            ЫЫЫЫ   ЫЫЫЫЫ  Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  
+
+
+                                                                    
+                                                                    
+                                                             ЫЫЫЫЫ  
+                                                                    
+                                                                    
+
+
+                                         ЫЫЫЫ   ЫЫЫЫ    ЫЫЫ       Ы  ЫЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫ   
+                                         Ы   Ы  Ы   Ы  Ы   Ы      Ы  Ы        Ы    Ы   Ы  
+                                         ЫЫЫЫ   ЫЫЫЫ   Ы   Ы      Ы  ЫЫЫ      Ы    Ы   Ы  
+                                         Ы      Ы  Ы   Ы   Ы  Ы   Ы  Ы        Ы    Ы   Ы  
+                                         Ы      Ы   Ы   ЫЫЫ    ЫЫЫ   ЫЫЫЫЫ    Ы     ЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E                                  MCB SISTEMAS                              
+
+                                                           Outubro/2006
+
+                               MARCIUS C. BEZERRA                           
+                              Analista/projetista                           
+F
+E    MCB SISTEMAS                                                     PAG   1
+    Mo'DULOS DO PROJETOF
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                               Mo'DULOS DO PROJETOF
+
+
+                                  SUBSISTEMASF
+
+    TITULO                             TITULO REDUZIDO          ARQUIVO
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Categorias de produtos             Categorias de produtos   CATS.DBF
+    Subcategorias de produtos          SubCategorias de produtosSUBCATS.DBF
+    Produtos e servicos                Produtos e servicos      PRODUTOS.DBF
+    Metas e gastos diarios             Metas e gastos diarios   METAS.DBF
+    Gastos diarios                     Gastos diarios           GASTOS.DBF
+
+
+
+
+
+
+
+
+
+
+
+
+                                             ЫЫЫ   ЫЫЫЫ   Ы   Ы   ЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ  
+                                            Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  Ы      
+                                            ЫЫЫЫЫ  ЫЫЫЫ   Ы   Ы  Ы   Ы  ЫЫЫЫ   ЫЫЫ    
+                                            Ы   Ы  Ы  Ы    Ы Ы   Ы   Ы  Ы  Ы   Ы      
+                                            Ы   Ы  Ы   Ы    Ы     ЫЫЫ   Ы   Ы  ЫЫЫЫЫ  
+
+
+                Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ    ЫЫЫ   Ы   Ы  ЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫ       ЫЫЫЫ    ЫЫЫ   
+                Ы   Ы    Ы    Ы      Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы    Ы    Ы      Ы   Ы      Ы   Ы  Ы   Ы  
+                ЫЫЫЫЫ    Ы    ЫЫЫ    ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ   Ы   Ы  Ы   Ы    Ы    Ы      ЫЫЫЫЫ      Ы   Ы  Ы   Ы  
+                Ы   Ы    Ы    Ы      Ы  Ы   Ы   Ы  Ы  Ы   Ы  \Ы  Ы   Ы    Ы    Ы      Ы   Ы      Ы   Ы  Ы   Ы  
+                Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы  Ы   Ы  Ы   Ы   ЫЫЫ\   ЫЫЫ   ЫЫЫЫЫ   ЫЫЫЫ  Ы   Ы      ЫЫЫЫ    ЫЫЫ   
+
+
+                                          ЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ   
+                                         Ы        Ы    Ы        Ы    Ы      ЫЫ ЫЫ  Ы   Ы  
+                                          ЫЫЫ     Ы     ЫЫЫ     Ы    ЫЫЫ    Ы Ы Ы  ЫЫЫЫЫ  
+                                             Ы    Ы        Ы    Ы    Ы      Ы   Ы  Ы   Ы  
+                                         ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ     Ы    ЫЫЫЫЫ  Ы   Ы  Ы   Ы  
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG   2
+    A'RVORE HIERA'RQUICA DO SISTEMAF
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+    E
+                     A'RVORE HIERA'RQUICA DO SISTEMAF
+
+        ORCAMENTO DE FINAIS DE SEMANA 
+         ГД Cadastros 
+         і   ГД Categorias de produtos (dbf)
+         і   і   і   ГД Cadastrar
+         і   і   і   ГД Modificar
+         і   і   і   АД Pesquisar
+         і   і   АД SubCategorias de produtos (dbf)
+         і   ГД Produtos e servicos (dbf)
+         і   і   ГД Cadastrar
+         і   і   ГД Modificar
+         і   і   АД Pesquisar
+         і   АД Metas e gastos diarios (dbf)
+         і       і   ГД Cadastrar
+         і       і   ГД Modificar
+         і       і   АД Pesquisar
+         і       АД Gastos diarios (dbf)
+         АД Apoio 
+             ГД Backup 
+             ГД Restaura backup 
+             ГД Reconstro'i i'ndices 
+             ГД Elimina reg apagados 
+             ГД Ve^ relato'rio gravado 
+             АД Configura ambiente 
+                 ГД Impressora 
+                 ГД Pano de fundo 
+                 ГД Fontes de caracteres 
+                 ГД Esquemas de cores 
+                 ГД Sensibilidade mouse 
+                 ГД ---------- 
+                 ГД Confirma em campos 
+                 ГД Confirma excluso~es 
+                 ГД Confirma incluso~es 
+                 ГД Efeitos sonoros 
+                 ГД Ajuda de campo ativa 
+                 АД Utiliza mouse 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   ЫЫЫЫ   ЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫЫ  ЫЫЫЫ   ЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫ    ЫЫЫ       ЫЫЫЫ    ЫЫЫ    ЫЫЫЫ  
+                   Ы   Ы  Ы      Ы      Ы      Ы   Ы    Ы    Ы      Ы   Ы  Ы   Ы      Ы   Ы  Ы   Ы  Ы      
+                   Ы   Ы  ЫЫЫ     ЫЫЫ   Ы      ЫЫЫЫ     Ы    Ы      ЫЫЫЫЫ  Ы   Ы      Ы   Ы  Ы   Ы   ЫЫЫ   
+                   Ы   Ы  Ы          Ы  Ы      Ы  Ы     Ы    Ы      Ы   Ы  Ы   Ы      Ы   Ы  Ы   Ы      Ы  
+                   ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ    ЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ   ЫЫЫЫ  Ы   Ы   ЫЫЫ       ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   
+
+
+                            ЫЫЫЫ  Ы   Ы  ЫЫЫЫ    ЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ    ЫЫЫЫ  
+                           Ы      Ы   Ы  Ы   Ы  Ы        Ы    Ы        Ы    Ы      ЫЫ ЫЫ  Ы   Ы  Ы      
+                            ЫЫЫ   Ы   Ы  ЫЫЫЫ    ЫЫЫ     Ы     ЫЫЫ     Ы    ЫЫЫ    Ы Ы Ы  ЫЫЫЫЫ   ЫЫЫ   
+                               Ы  Ы   Ы  Ы   Ы      Ы    Ы        Ы    Ы    Ы      Ы   Ы  Ы   Ы      Ы  
+                           ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ     Ы    ЫЫЫЫЫ  Ы   Ы  Ы   Ы  ЫЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG   3
+    DESCRIC,A~O DO SUBSISTEMA GASTOS DIARIOS (gastos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+              DESCRIC,A~O DO SUBSISTEMA GASTOS DIARIOS (gastos.dbf)F
+
+        
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДВДДДДДДДДДДДДДДДДДДДДДДД
+         NOME DO PROJETO:                           і NOME EXECUTA'VEL:
+                                                    і
+           ORCAMENTO DE FINAIS DE SEMANA            і   ORFIN.EXE
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЕДДДДДДДДДДДДДДДДДДДДДДД
+         NOME DO SUBSISTEMA:                        і NOME DO ARQUIVO
+                                                    і
+           Gastos diarios                           і   GASTOS.DBF
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДБДДДДДДДДДДДДДДДДДДДДДДД
+         DEFINIC,A~O:
+        
+        
+        
+        
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+         RESTRIC,O~ES DE UTILIZAЂЋO:
+        
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+         RELACIONAMENTOS:
+        
+        
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+         OCORRENCIAS:
+        
+           Quantidade estimada de registros:
+        ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+         OBSERVAC,O~ES:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫ   ЫЫЫЫЫ  Ы   Ы   ЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫ   
+                              Ы   Ы  Ы      Ы      Ы      Ы   Ы  Ы      ЫЫ  Ы  Ы        Ы    Ы   Ы  
+                              ЫЫЫЫ   ЫЫЫ    ЫЫЫ    ЫЫЫ    ЫЫЫЫ   ЫЫЫ    Ы Ы Ы  Ы        Ы    ЫЫЫЫЫ  
+                              Ы  Ы   Ы      Ы      Ы      Ы  Ы   Ы      Ы  ЫЫ  Ы        Ы    Ы   Ы  
+                              Ы   Ы  ЫЫЫЫЫ  Ы      ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ  Ы   Ы   ЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы  
+
+
+                                          ЫЫЫЫ  ЫЫЫЫ   Ы   Ы  ЫЫЫЫЫ   ЫЫЫ   ЫЫЫЫ    ЫЫЫ   
+                                         Ы      Ы   Ы  Ы   Ы     Ы   Ы   Ы  Ы   Ы  Ы   Ы  
+                                         Ы      ЫЫЫЫ   Ы   Ы    Ы    ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ  
+                                         Ы      Ы  Ы   Ы   Ы   Ы     Ы   Ы  Ы   Ы  Ы   Ы  
+                                          ЫЫЫЫ  Ы   Ы   ЫЫЫ   ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫ   Ы   Ы  
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG   4
+    REFERENCIA CRUZADA DOS SUBSISTEMASF
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+    LEGENDA:  (V)=valida‡„o, (P)=processamento, (L)=lan‡amento
+              (I)=processamento de integridade referencial (autom tico)
+
+
+    CATEGORIAS DE PRODUTOS
+
+                  PRODUTOS (V)ДДВДДДД(  CATS  )                            
+                  PRODUTOS (I)ДДЩ                                           
+
+
+    SUBCATEGORIAS DE PRODUTOS
+
+                  PRODUTOS (V)ДДВДДДД(SUBCATS )                            
+                  PRODUTOS (I)ДДЩ                                           
+
+
+    PRODUTOS E SERVICOS
+
+                  GASTOS   (V)ДДВДДДД(PRODUTOS)ДДДДДВД(V) CATS            
+                  GASTOS   (I)ДДЩ                    ГД(I) CATS            
+                                                     ГД(V) SUBCATS         
+                                                     АД(I) SUBCATS         
+
+
+    GASTOS DIARIOS
+
+                                      ( GASTOS )ДДДДДВД(V) PRODUTOS        
+                                                     АД(I) PRODUTOS        
+
+
+
+
+
+
+
+
+
+
+
+
+                    ЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ   Ы   Ы  ЫЫЫЫЫ   ЫЫЫ    ЫЫЫЫ      ЫЫЫЫ    ЫЫЫ    ЫЫЫЫ  
+                   Ы   Ы    Ы    Ы   Ы    Ы    Ы   Ы  Ы   Ы    Ы    Ы   Ы  Ы          Ы   Ы  Ы   Ы  Ы      
+                   ЫЫЫЫЫ    Ы    ЫЫЫЫ     Ы    ЫЫЫЫ   Ы   Ы    Ы    Ы   Ы   ЫЫЫ       Ы   Ы  Ы   Ы   ЫЫЫ   
+                   Ы   Ы    Ы    Ы  Ы     Ы    Ы   Ы  Ы   Ы    Ы    Ы   Ы      Ы      Ы   Ы  Ы   Ы      Ы  
+                   Ы   Ы    Ы    Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫ    ЫЫЫ     Ы     ЫЫЫ   ЫЫЫЫ       ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   
+
+
+                            ЫЫЫ   ЫЫЫЫ    ЫЫЫ   Ы   Ы  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ    ЫЫЫЫ      ЫЫЫЫ   ЫЫЫЫЫ  
+                           Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы    Ы    Ы   Ы  Ы   Ы  Ы          Ы   Ы  Ы      
+                           ЫЫЫЫЫ  ЫЫЫЫ   Ы   Ы  Ы   Ы    Ы    Ы   Ы  Ы   Ы   ЫЫЫ       Ы   Ы  ЫЫЫ    
+                           Ы   Ы  Ы  Ы   Ы  \Ы  Ы   Ы    Ы     Ы Ы   Ы   Ы      Ы      Ы   Ы  Ы      
+                           Ы   Ы  Ы   Ы   ЫЫЫ\   ЫЫЫ   ЫЫЫЫЫ    Ы     ЫЫЫ   ЫЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                                               ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ    ЫЫЫ    ЫЫЫЫ  
+                                               Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  Ы      
+                                               Ы   Ы  ЫЫЫЫЫ  Ы   Ы  Ы   Ы   ЫЫЫ   
+                                               Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы      Ы  
+                                               ЫЫЫЫ   Ы   Ы  ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG   5
+    ATRIBUTOS DE CATEGORIAS DE PRODUTOS (cats.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                 ATRIBUTOS DE CATEGORIAS DE PRODUTOS (cats.dbf)F
+
+    Subsistema: Categorias de produtos
+    Arquivo...: CATS       N.Campos: 3   Tam.Reg.: 54      Chave: Prim ria
+    Pesquisa..: Codigo da categoriaН cod_cat
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Nome    Tipo Tam Cd            Atributos
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_cat    C   3  0 Ti'tulo...: Codigo                   (Na~o edita'vel)
+                        M scara..: 999
+                        Sequ~e^ncia: 1 
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    des_cat    C  50  0 Ti'tulo...: Descricao                    (Edita'vel)
+                        M scara..: @!
+                        Txt ajuda: Descricao da categoria
+                        Validac,a~o: !EMPT(des_cat)
+                        Msg crit.: Necessa'rio informar a descricao
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    intref     N   8  0 Ti'tulo...: Integridade referencial     (Invisi'vel)
+                        M scara..: 99999999
+                                   Armazena a qde de registros existentes em
+                                    outros arquivos que esta~o validando nest
+                                   eregistro
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+E    MCB SISTEMAS                                                     PAG   6
+    ATRIBUTOS DE SUBCATEGORIAS DE PRODUTOS (subcats.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+              ATRIBUTOS DE SUBCATEGORIAS DE PRODUTOS (subcats.dbf)F
+
+    Subsistema: SubCategorias de produtos
+    Arquivo...: SUBCATS    N.Campos: 4   Tam.Reg.: 57      Chave: Prim ria
+    Pesquisa..: Codigo da categoriaН cod_cat+cod_sub
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Nome    Tipo Tam Cd            Atributos
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_cat    C   3  0 Ti'tulo...: Codigo                      (Invisi'vel)
+                        M scara..: 999
+                                   Campo de relacionamento com CATS
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_sub    C   3  0 Ti'tulo...: Codigo                   (Na~o edita'vel)
+                        M scara..: 999
+                        Sequ~e^ncia: 1 
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    des_sub    C  50  0 Ti'tulo...: Descricao                    (Edita'vel)
+                        M scara..: @!
+                        Txt ajuda: Descricao da sub-categoria
+                        Validac,a~o: !EMPT(des_sub)
+                        Msg crit.: Necessa'rio informar a descricao
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    intref     N   8  0 Ti'tulo...: Integridade referencial     (Invisi'vel)
+                        M scara..: 99999999
+                                   Armazena a qde de registros existentes em
+                                    outros arquivos que esta~o validando nest
+                                   eregistro
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+E    MCB SISTEMAS                                                     PAG   7
+    ATRIBUTOS DE PRODUTOS E SERVICOS (produtos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                ATRIBUTOS DE PRODUTOS E SERVICOS (produtos.dbf)F
+
+    Subsistema: Produtos e servicos
+    Arquivo...: PRODUTOS   N.Campos: 6   Tam.Reg.: 71      Chave: Prim ria
+    Pesquisa..: Codigo do produto  Н cod_pro
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Nome    Tipo Tam Cd            Atributos
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_pro    C   4  0 Ti'tulo...: Codigo                   (Na~o edita'vel)
+                        M scara..: 9999
+                        Sequ~e^ncia: 1 
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    des_pro    C  50  0 Ti'tulo...: Descricao                    (Edita'vel)
+                        M scara..: @!
+                        Txt ajuda: Descricao de produto ou servico
+                        Validac,a~o: !EMPT(des_pro)
+                        Msg crit.: Necessa'rio informar a descricao
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_cat    C   3  0 Ti'tulo...: Categoria                    (Edita'vel)
+                        M scara..: 999
+                        Txt ajuda: Pressione F8 para selecionar uma categori
+                                   a
+                        Cmd (F8).: VDBF(6,24,20,77,'CATS',{'des_cat'},1,'cod
+                                   _cat',[])
+                        Pre'-valid: VDBF(6,24,20,77,'CATS',{'des_cat'},1,'cod
+                                   _cat',[])
+                        Validac,a~o: PTAB(cod_cat,'CATS',1)
+                        Msg crit.: Categoria nao encontrada (Pressione F8)
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_sub    C   3  0 Ti'tulo...: Subcategoria                 (Edita'vel)
+                        M scara..: 999
+                        Txt ajuda: Pressione F8 para selecionar uma subcateg
+                                   oria
+                        Cmd (F8).: VDBF(6,24,20,77,'SUBCATS',{'des_sub'},1,'
+                                   cod_sub',[cod_cat =CATS->cod_cat])
+                        Pre'-valid: VDBF(6,24,20,77,'SUBCATS',{'des_sub'},1,'
+                                   cod_sub',[cod_cat=CATS->cod_cat])
+                        Validac,a~o: PTAB(cod_cat+cod_sub,'SUBCATS',1)
+                        Msg crit.: Subcategoria invalida (Pressione F8)
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    uni_pro    C  10  0 Ti'tulo...: Unidade                      (Edita'vel)
+                        M scara..: @!
+                        Txt ajuda: Pressione F8 para unidades de medida
+                        Cmd (F8).: MTAB([UNIDADE|CAIXA|GARRAFA|ML|METRO|PACO
+                                   TE|KIT|LITRO|KG],[UNIDADE])
+                        Validac,a~o: !EMPT(uni_pro)
+                        Msg crit.: Informe uma unidade ou pressione F8 para 
+                                   selecione uma
+                        V.Inicial: 'UNIDADE'
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    intref     N   8  0 Ti'tulo...: Integridade referencial     (Invisi'vel)
+                        M scara..: 99999999
+                                   Armazena a qde de registros existentes em
+                                    outros arquivos que esta~o validando nest
+                                   eregistro
+
+                                                               (continua...)
+E    MCB SISTEMAS                                                     PAG   8
+    ATRIBUTOS DE PRODUTOS E SERVICOS (produtos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+E    MCB SISTEMAS                                                     PAG   9
+    ATRIBUTOS DE METAS E GASTOS DIARIOS (metas.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                ATRIBUTOS DE METAS E GASTOS DIARIOS (metas.dbf)F
+
+    Subsistema: Metas e gastos diarios
+    Arquivo...: METAS      N.Campos: 3   Tam.Reg.: 17      Chave: Prim ria
+    Pesquisa..: Mes/Ano            Н STR(mes_met,02,00)+STR(ano_met,04,00)
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Nome    Tipo Tam Cd            Atributos
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    mes_met    N   2  0 Ti'tulo...: Mes/Ano                      (Edita'vel)
+                        M scara..: 99
+                        Txt ajuda: Mes para essa meta
+                        Validac,a~o: mes_met>0.and.mes_met<13
+                        Msg crit.: O mes deve variar entre 1 e 12
+                        V.Inicial: MET_01F9()
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    ano_met    N   4  0 Ti'tulo...: Mes/Ano                      (Edita'vel)
+                        M scara..: 9999
+                        Txt ajuda: Ano para essa meta
+                        Validac,a~o: ano_met>2005 .and. ano_met<2011
+                        Msg crit.: O ano deve variar entre 2006 e 2010
+                        V.Inicial: MET_02F9()
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    met_met    N  10  2 Ti'tulo...: Meta                         (Edita'vel)
+                        M scara..: @E 9,999,999.99
+                        Txt ajuda: Informe sua meta de gastos nesse mes
+                        Validac,a~o: met_met>0
+                        Msg crit.: A meta deve ser maior que 0
+                        V.Inicial: 500
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+E    MCB SISTEMAS                                                     PAG  10
+    ATRIBUTOS DE GASTOS DIARIOS (gastos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                    ATRIBUTOS DE GASTOS DIARIOS (gastos.dbf)F
+
+    Subsistema: Gastos diarios
+    Arquivo...: GASTOS     N.Campos: 7   Tam.Reg.: 40      Chave: Prim ria
+    Pesquisa..: Mes/Ano            Н STR(mes_met,02,00)+STR(ano_met,04,00)+
+                                      cod_gas
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    Nome    Tipo Tam Cd            Atributos
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    mes_met    N   2  0 Ti'tulo...: Mes/Ano                     (Invisi'vel)
+                        M scara..: 99
+                                   Campo de relacionamento com METAS
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    ano_met    N   4  0 Ti'tulo...: Mes/Ano                     (Invisi'vel)
+                        M scara..: 9999
+                                   Campo de relacionamento com METAS
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_gas    C   6  0 Ti'tulo...: Cod_gas                  (Na~o edita'vel)
+                        M scara..: 999999
+                        Sequ~e^ncia: 1 
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    dat_gas    D   8  0 Ti'tulo...: Data                         (Edita'vel)
+                        M scara..: @D
+                        Txt ajuda: Data do gasto
+                        Validac,a~o: month(dat_gas)=METAS->mes_met.and.year(da
+                                   t_gas)=METAS->ano_met
+                        Msg crit.: O mes e ano devem ser os mesmos da meta
+                        V.Inicial: date()
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    cod_pro    C   4  0 Ti'tulo...: Produto                      (Edita'vel)
+                        M scara..: 9999
+                        Txt ajuda: Pressione F8 para lista de produtos e ser
+                                   vicos
+                        Cmd (F8).: VDBF(6,24,20,77,'PRODUTOS',{'des_pro'},1,
+                                   'cod_pro',[])
+                        Pre'-valid: VDBF(6,24,20,77,'PRODUTOS',{'des_pro'},1,
+                                   'cod_pro',[])
+                        Validac,a~o: PTAB(cod_pro,'PRODUTOS',1)
+                        Msg crit.: Produto nao localizado
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    qtd_gas    N   5  1 Ti'tulo...: Quantidade                   (Edita'vel)
+                        M scara..: @E 999.9
+                        Txt ajuda: Quantidade usada
+                        Validac,a~o: qtd_gas>0
+                        Msg crit.: A quantidade deve ser maior que 0
+                        V.Inicial: 1
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    vlr_gas    N  10  2 Ti'tulo...: Valor Unitario               (Edita'vel)
+                        M scara..: @E 9,999,999.99
+                        Txt ajuda: Valor de uma unidade do produto
+                        Validac,a~o: vlr_gas>0
+                        Msg crit.: O valor unitario deve ser maior que 0
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+
+
+
+
+
+
+
+
+
+
+
+                ЫЫЫЫЫ   ЫЫЫ   ЫЫЫЫ   Ы   Ы  Ы   Ы  Ы       ЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ   ЫЫЫ    ЫЫЫЫ      ЫЫЫЫ   ЫЫЫЫЫ  
+                Ы      Ы   Ы  Ы   Ы  ЫЫ ЫЫ  Ы   Ы  Ы      Ы   Ы  Ы   Ы    Ы    Ы   Ы  Ы          Ы   Ы  Ы      
+                ЫЫЫ    Ы   Ы  ЫЫЫЫ   Ы Ы Ы  Ы   Ы  Ы      ЫЫЫЫЫ  ЫЫЫЫ     Ы    Ы   Ы   ЫЫЫ       Ы   Ы  ЫЫЫ    
+                Ы      Ы   Ы  Ы  Ы   Ы   Ы  Ы   Ы  Ы      Ы   Ы  Ы  Ы     Ы    Ы   Ы      Ы      Ы   Ы  Ы      
+                Ы       ЫЫЫ   Ы   Ы  Ы   Ы   ЫЫЫ   ЫЫЫЫЫ  Ы   Ы  Ы   Ы  ЫЫЫЫЫ   ЫЫЫ   ЫЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                              ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ    ЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+                              Ы      ЫЫ  Ы    Ы    Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы      Ы   Ы  Ы      
+                              ЫЫЫ    Ы Ы Ы    Ы    ЫЫЫЫ   ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫЫ      Ы   Ы  ЫЫЫ    
+                              Ы      Ы  ЫЫ    Ы    Ы  Ы   Ы   Ы  Ы   Ы  Ы   Ы      Ы   Ы  Ы      
+                              ЫЫЫЫЫ  Ы   Ы    Ы    Ы   Ы  Ы   Ы  ЫЫЫЫ   Ы   Ы      ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                                               ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ    ЫЫЫ    ЫЫЫЫ  
+                                               Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы  Ы      
+                                               Ы   Ы  ЫЫЫЫЫ  Ы   Ы  Ы   Ы   ЫЫЫ   
+                                               Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы      Ы  
+                                               ЫЫЫЫ   Ы   Ы  ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG  11
+    FORMULA'RIO PARA ENTRADA DE DADOS EM GASTOS DIARIOS (gastos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+        FORMULA'RIO PARA ENTRADA DE DADOS EM GASTOS DIARIOS (gastos.dbf)F
+
+    ЪДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДВДДДДДДДДДДДВДДДДДДДДДДї
+    іMCB SISTEMAS                                   і[ ] Incluirі   DATA   і
+    іORCAMENTO DE FINAIS DE SEMANA                  і[ ] Alterarі          і
+    іENTRADA DE DADOS PARA GASTOS DIARIOS           і[ ] Excluirі          і
+    ГДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДБДДДДДДДДДДДБДДДДДДДДДДґ
+    і                                                                      і
+    іMes/Ano....... |_,_|                                                  і
+    і                                                                      і
+    іMes/Ano....... |_,_,_,_|                                              і
+    і                                                                      і
+    іData.......... |_,_|_,_|_,_,_,_|                                      і
+    і                                                                      і
+    іProduto....... |_,_,_,_|                                              і
+    і                                                                      і
+    іQuantidade.... |_,_,_|_|                                              і
+    і                                                                      і
+    іValor Unitario |_|_,_,_|_,_,_|_,_|                                    і
+    АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     ЫЫЫЫЫ  ЫЫЫЫЫ  Ы       ЫЫЫ    ЫЫЫЫ      ЫЫЫЫ    ЫЫЫ   
+                                       Ы    Ы      Ы      Ы   Ы  Ы          Ы   Ы  Ы   Ы  
+                                       Ы    ЫЫЫ    Ы      ЫЫЫЫЫ   ЫЫЫ       Ы   Ы  Ы   Ы  
+                                       Ы    Ы      Ы      Ы   Ы      Ы      Ы   Ы  Ы   Ы  
+                                       Ы    ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы  ЫЫЫЫ       ЫЫЫЫ    ЫЫЫ   
+
+
+                                          ЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы   ЫЫЫ   
+                                         Ы        Ы    Ы        Ы    Ы      ЫЫ ЫЫ  Ы   Ы  
+                                          ЫЫЫ     Ы     ЫЫЫ     Ы    ЫЫЫ    Ы Ы Ы  ЫЫЫЫЫ  
+                                             Ы    Ы        Ы    Ы    Ы      Ы   Ы  Ы   Ы  
+                                         ЫЫЫЫ   ЫЫЫЫЫ  ЫЫЫЫ     Ы    ЫЫЫЫЫ  Ы   Ы  Ы   Ы  
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG  12
+    TELA DO SUBSISTEMA CATEGORIAS DE PRODUTOS (cats.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+              TELA DO SUBSISTEMA CATEGORIAS DE PRODUTOS (cats.dbf)F
+
+2
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                  ЪДДДДДДДДДДДДДДДДДДД CATEGORIAS DE PRODUTOS ДДДДДДДДДДДДДДДДДДДДї      
+                  і Codigo...: xxx                                                і      
+                  і Descricao: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx і      
+                  і                                                               і      
+                  АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ      
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+0
+
+E    MCB SISTEMAS                                                     PAG  13
+    TELA DO SUBSISTEMA SUBCATEGORIAS DE PRODUTOS (subcats.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+           TELA DO SUBSISTEMA SUBCATEGORIAS DE PRODUTOS (subcats.dbf)F
+
+2
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                  ЪДДДДДДДДДДДДДДДДДДД CATEGORIAS DE PRODUTOS ДДДДДДДДДДДДДДДДДДДДї      
+                  і Codigo...: xxx                                                і      
+                  іЪДДДДДДДДДДДДДДДДД SUBCATEGORIAS DE PRODUTOS ДДДДДДДДДДДДДДДДДїі      
+                  іі Codigo і Descricao                                          іі      
+                  АіДДДДДДДДЕДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДіЩ      
+                   і xxx    і xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx і       
+                   і        і                                                    і       
+                   і        і                                                    і       
+                   і        і                                                    і       
+                   і                                                             і       
+                   і                                                             і       
+                   і                                                             і       
+                   і                                                             і       
+                   АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ       
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+0
+
+E    MCB SISTEMAS                                                     PAG  14
+    TELA DO SUBSISTEMA PRODUTOS E SERVICOS (produtos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+             TELA DO SUBSISTEMA PRODUTOS E SERVICOS (produtos.dbf)F
+
+2
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                ЪДДДДДДДДДДДДДДДДДДДДДДД PRODUTOS E SERVICOS ДДДДДДДДДДДДДДДДДДДДДДї     
+                і Codigo......: xxxx                                               і     
+                і Descricao...: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx і     
+                і Categoria...: xxx - ............................................ і     
+                і Subcategoria: xxx - ............................................ і     
+                і Unidade.....: xxxxxxxxxx                                         і     
+                АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ     
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+0
+
+    FўRMULAS/CAMPOS EXTERNOS EXIBIDOS:
+
+    f_des_cat       Н  CATS->des_cat
+    f_des_sub       Н  SUBCATS->des_sub
+E    MCB SISTEMAS                                                     PAG  15
+    TELA DO SUBSISTEMA METAS E GASTOS DIARIOS (metas.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+             TELA DO SUBSISTEMA METAS E GASTOS DIARIOS (metas.dbf)F
+
+2
+                                                                                         
+                                                                                         
+            ЪДДДДДДДДДДД METAS E GASTOS DIARIOS ДДДДДДДДДДДї                             
+            іЪ Metas ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДїі                             
+            ііMes/Ano: xx/xxxx                            іі                             
+            ііMeta...: xxxxxxxxxxxx                       іі                             
+            іГДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДґі                             
+            іГДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДґі                             
+            іі                 Gasto          Esperado    іі                             
+            іі1a. Semana.....: ............   ............іі                             
+            іі2a. Semana.....: ............   ............іі                             
+            іі3a. Semana.....: ............   ............іі                             
+            іі4a. Semana.....: ............   ............іі                             
+            іі                                            іі                             
+            ііTotal..........: ............   ............іі                             
+            іі                                            іі                             
+            ііRestando.......: ............               іі                             
+            іАДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩі                             
+            АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ                             
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+0
+
+    FўRMULAS/CAMPOS EXTERNOS EXIBIDOS:
+
+    Gasto sem. 1    Н  MET_03F9()
+    Gasto sem. 2    Н  met_met
+    Gasto sem. 3    Н  met_met
+    Gasto sem. 4    Н  met_met
+    Esp. Sem. 1     Н  met_met
+    Esp. Sem. 2     Н  met_met
+    Esp. Sem. 3     Н  met_met
+    Esp. Sem. 4     Н  met_met
+    Total Esperado  Н  met_met
+    Total Gasto     Н  met_met
+    Restante        Н  met_met
+E    MCB SISTEMAS                                                     PAG  16
+    TELA DO SUBSISTEMA GASTOS DIARIOS (gastos.dbf)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+                 TELA DO SUBSISTEMA GASTOS DIARIOS (gastos.dbf)F
+
+2
+                                                                                         
+                                                                                         
+            ЪДДДДДДДДДДД METAS E GASTOS DIARIOS ДДДДДДДДДДДї                             
+            іЪ Metas ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДїі                             
+         ЪДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД GASTOS DIARIOS ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДї
+         іData      іProduto                            іQtd. іValor Unit. іTotal       і
+         іДДДДДДДДДДЕДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЕДДДДДЕДДДДДДДДДДДДЕДДДДДДДДДДДДі
+         іxxxxxxxxxxіxxxx-..............................іxxxxxіxxxxxxxxxxxxі............і
+         і          і                                   і     і            і            і
+         і          і                                   і     і            і            і
+         і          і                                   і     і            і            і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         і                                                                              і
+         АДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДЩ
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+0
+
+    FўRMULAS/CAMPOS EXTERNOS EXIBIDOS:
+
+    Valor total     Н  qtd_gas*vlr_gas
+    Nome produto    Н  PRODUTOS->des_pro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 ЫЫЫЫ   ЫЫЫЫ    ЫЫЫ    ЫЫЫЫ  ЫЫЫЫЫ   ЫЫЫЫ   ЫЫЫЫ   ЫЫЫ    ЫЫЫЫ  
+                                 Ы   Ы  Ы   Ы  Ы   Ы  Ы      Ы      Ы      Ы      Ы   Ы  Ы      
+                                 ЫЫЫЫ   ЫЫЫЫ   Ы   Ы  Ы      ЫЫЫ     ЫЫЫ    ЫЫЫ   Ы   Ы   ЫЫЫ   
+                                 Ы      Ы  Ы   Ы   Ы  Ы      Ы          Ы      Ы  Ы   Ы      Ы  
+                                 Ы      Ы   Ы   ЫЫЫ    ЫЫЫЫ  ЫЫЫЫЫ  ЫЫЫЫ   ЫЫЫЫ    ЫЫЫ   ЫЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E    MCB SISTEMAS                                                     PAG  17
+    PROCESSOS/LANC,AMENTOS DE PRODUTOS E SERVICOS (produtos.prg)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+          PROCESSOS/LANЂAMENTOS DE PRODUTOS E SERVICOS (produtos.prg)       
+
+
+                                   PROCESSOS                                F
+
+    ARQUIVO  CAMPO
+    ALVO     ALVO       PROCESSAMENTOS
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    CATS     INTREF     Direto  : CATS->INTREF+1
+                        Inverso : CATS->INTREF-1
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    SUBCATS  INTREF     Direto  : SUBCATS->INTREF+1
+                        Inverso : SUBCATS->INTREF-1
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+E    MCB SISTEMAS                                                     PAG  18
+    PROCESSOS/LANC,AMENTOS DE GASTOS DIARIOS (gastos.prg)F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+E
+              PROCESSOS/LANЂAMENTOS DE GASTOS DIARIOS (gastos.prg)          
+
+
+                                   PROCESSOS                                F
+
+    ARQUIVO  CAMPO
+    ALVO     ALVO       PROCESSAMENTOS
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+    PRODUTOS INTREF     Direto  : PRODUTOS->INTREF+1
+                        Inverso : PRODUTOS->INTREF-1
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Ы       ЫЫЫ   Ы   Ы   ЫЫЫ   Ы   Ы  ЫЫЫЫЫ   ЫЫЫЫ      ЫЫЫЫ   ЫЫЫЫЫ  
+                              Ы      Ы   Ы  Ы   Ы  Ы   Ы  Ы   Ы    Ы    Ы          Ы   Ы  Ы      
+                              Ы      ЫЫЫЫЫ   Ы Ы   Ы   Ы  Ы   Ы    Ы     ЫЫЫ       Ы   Ы  ЫЫЫ    
+                              Ы      Ы   Ы    Ы    Ы   Ы  Ы   Ы    Ы        Ы      Ы   Ы  Ы      
+                              ЫЫЫЫЫ  Ы   Ы    Ы     ЫЫЫ    ЫЫЫ     Ы    ЫЫЫЫ       ЫЫЫЫ   ЫЫЫЫЫ  
+
+
+                              ЫЫЫЫ   ЫЫЫЫЫ  Ы       ЫЫЫ   ЫЫЫЫЫ   ЫЫЫ   ЫЫЫЫ   ЫЫЫЫЫ   ЫЫЫ    ЫЫЫЫ  
+                              Ы   Ы  Ы      Ы      Ы   Ы    Ы    Ы   Ы  Ы   Ы    Ы    Ы   Ы  Ы      
+                              ЫЫЫЫ   ЫЫЫ    Ы      ЫЫЫЫЫ    Ы    Ы   Ы  ЫЫЫЫ     Ы    Ы   Ы   ЫЫЫ   
+                              Ы  Ы   Ы      Ы      Ы   Ы    Ы    Ы   Ы  Ы  Ы     Ы    Ы   Ы      Ы  
+                              Ы   Ы  ЫЫЫЫЫ  ЫЫЫЫЫ  Ы   Ы    Ы     ЫЫЫ   Ы   Ы  ЫЫЫЫЫ   ЫЫЫ   ЫЫЫЫ   
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+
+
+E
+                                  I N D I C E                               
+F
+    ДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДДД
+
+        Mo'DULOS DO PROJETO...........................................  1
+
+        A'RVORE HIERA'RQUICA DO SISTEMA................................  2
+
+        DESCRIC,A~O DOS SUBSISTEMAS:
+                GASTOS DIARIOS (gastos.dbf)..........................  3
+
+        REFERENCIA CRUZADA DOS SUBSISTEMAS...........................  4
+
+        ATRIBUTOS DOS SUBSISTEMAS:
+                CATEGORIAS DE PRODUTOS (cats.dbf)....................  5
+                SUBCATEGORIAS DE PRODUTOS (subcats.dbf)..............  6
+                PRODUTOS E SERVICOS (produtos.dbf)...................  7
+                METAS E GASTOS DIARIOS (metas.dbf)...................  9
+                GASTOS DIARIOS (gastos.dbf).......................... 10
+
+        FORMULA'RIOS PARA ENTRADA DE DADOS:
+                GASTOS DIARIOS (gastos.dbf).......................... 11
+
+        TELAS DO SISTEMA:
+                CATEGORIAS DE PRODUTOS (cats.dbf).................... 12
+                SUBCATEGORIAS DE PRODUTOS (subcats.dbf).............. 13
+                PRODUTOS E SERVICOS (produtos.dbf)................... 14
+                METAS E GASTOS DIARIOS (metas.dbf)................... 15
+                GASTOS DIARIOS (gastos.dbf).......................... 16
+
+        PROCESSOS/LANC,AMENTOS:
+                PRODUTOS E SERVICOS (produtos.prg)................... 17
+                GASTOS DIARIOS (gastos.prg).......................... 18
+

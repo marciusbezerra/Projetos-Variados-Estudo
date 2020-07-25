@@ -1,0 +1,153 @@
+GAS-Pro v4.0
+011007014072001001001001012000176001
+ Categoria...:     -
+ Subcategoria:     -
+[Ÿ]
+[Ÿ]
+ 2 
+ 0 
+Categoria / Subcategoria
+Categoria / Subcategoria
+
+
+
+
+
+
+
+056
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+-1 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+vcod_cat
+C
+E
+999
+ 3 
+ 3 
+ 1 
+ 16 
+ 0 
+Categoria
+VDBF(6,24,20,77,'CATS',{'des_cat'},2,'cod_cat',[])
+PTAB(vcod_cat,'CATS',1)
+Categoria nao localizada. Pressione F8.
+
+Pressione F8 para categorias
+VDBF(6,24,20,77,'CATS',{'des_cat'},2,'cod_cat',[])
+ 0 
+ 0 
+
+
+vcod_sub
+C
+E
+999
+ 3 
+ 3 
+ 2 
+ 16 
+ 0 
+Subcategoria
+VDBF(6,24,20,77,'SUBCATS',{'des_sub'},2,'cod_sub',[cod_cat=CATS->cod_cat])
+PTAB(vcod_cat+vcod_sub,'SUBCATS',1)
+Subcategoria nao localizada. PressioneF8.
+
+Pressione F8 para subcategorias
+VDBF(6,24,20,77,'SUBCATS',{'des_sub'},2,'cod_sub',[cod_cat=CATS->cod_cat])
+ 0 
+ 0 
+
+
+ 2 
+des_cat
+CATS->des_cat
+@!
+ 1 
+ 22 
+ 43 
+
+des_sub
+SUBCATS->des_sub
+@!
+ 2 
+ 22 
+ 43 
+
+ 0 
+ 0 
+ 0 
+ 0 

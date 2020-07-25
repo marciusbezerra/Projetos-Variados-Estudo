@@ -1,0 +1,129 @@
+GAS-Pro v4.0
+
+[Ÿ]
+ 1 
+GASTOS
+Gastos por sub-categoria
+
+SUBCATS->des_sub+SUBCATS->cod_cat+SUBCATS->cod_sub
+dat_gas>=M->dt_ini.and.dat_gas<=M->dt_fin
+057
+2
+GASTOS POR SUB-CATEGORIA
+
+
+
+PROCESSANDO GRAFICO...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 1 
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+-1 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+-1 
+ 70 
+ 60 
+ 90 
+ 100 
+ 1 
+ 1 
+ 1 
+ 2 
+ 3 
+ 0 
+ 0 
+ 0 
+ 0 
+Valor
+qtd_gas*vlr_gas
+@E 999.9
+ 5 
+N
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0 
+ 0 
+ 1 
+SUBCATS->des_sub
+
+SUBCATS->cod_cat+SUBCATS->cod_sub
+
+
+ 0 
+ 2 
+PRODUTOS
+ 1 
+cod_pro
+
+
+
+SUBCATS
+ 1 
+PRODUTOS->cod_cat+PRODUTOS->cod_sub
+
+
+

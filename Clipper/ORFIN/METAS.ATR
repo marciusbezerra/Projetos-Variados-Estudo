@@ -1,0 +1,360 @@
+GAS-Pro v4.0
+005007018070001010049001015001176001
+Ú Metas ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂDias iniciais da 4 semanas ÄÄÄÄÄÄÄÄÄÄ¿
+³Mes/Ano:   /          ³1a.:    2a.:    3a.:    4a.:         ³
+³Meta...:              ³Pressione F5 para ver o calendario   ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                 Gasto          Esperado       Restando     ³
+³1a. Semana.....:                                            ³
+³2a. Semana.....:                                            ³
+³3a. Semana.....:                                            ³
+³4a. Semana.....:                                            ³
+³                                                            ³
+³Total..........:                                            ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+[Ÿ]
+Cadastrar~~26006ÿÿ 1
+[Ÿ]
+ 7 
+ 1 
+Mes/Ano
+
+ 1 
+ 2 
+[Ÿ]
+Metas e gastos diarios
+Metas e gastos diarios
+
+
+
+
+
+
+
+005
+
+
+
+
+
+
+
+004019022061001003025001007000176001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+-1 
+-1 
+ 0 
+-1 
+ 0 
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+mes_met
+N
+E
+99
+ 2 
+ 2 
+ 2 
+ 11 
+ 0 
+Mes/Ano
+
+mes_met>0.and.mes_met<13
+O mes deve variar entre 1 e 12
+MET_01F9()
+Mes para essa meta
+
+ 0 
+ 0 
+
+
+ano_met
+N
+E
+9999
+ 4 
+ 4 
+ 2 
+ 14 
+ 0 
+Mes/Ano
+
+ano_met>2005 .and. ano_met<2011
+O ano deve variar entre 2006 e 2010
+MET_02F9()
+Ano para essa meta
+
+ 0 
+ 0 
+
+
+met_met
+N
+E
+@E 9,999,999.99
+ 10 
+ 12 
+ 3 
+ 11 
+ 2 
+Meta
+
+met_met>0
+A meta deve ser maior que 0
+500
+Informe sua meta de gastos nesse mes
+
+ 0 
+ 0 
+
+
+se1_met
+N
+E
+99
+ 2 
+ 2 
+ 2 
+ 30 
+ 0 
+Se1_met
+
+se1_met>0.and.se1_met<=28
+O dia deve ser maior que 0 e menor ou igual a 28.
+1
+1o. dia da 1a. semana. Pressione F5 para calendario.
+
+ 0 
+ 0 
+
+
+se2_met
+N
+E
+99
+ 2 
+ 2 
+ 2 
+ 38 
+ 0 
+Se2_met
+
+se2_met>se1_met.and.se2_met<=28
+O dia deve ser maior que o 1o. dia da 1a. semana e menor ou igual a 28.
+se1_met+7
+1o. dia da 2a. semana. Pressione F5 para calendario.
+
+ 0 
+ 0 
+
+
+se3_met
+N
+E
+99
+ 2 
+ 2 
+ 2 
+ 46 
+ 0 
+Se3_met
+
+se3_met>se2_met.and.se3_met<=28
+O dia deve ser maior que o 1. dia da 2a. semana e menor ou igual a 28.
+se2_met+7
+1o. dia da 3a. semana. Pressione F5 para calendario.
+
+ 0 
+ 0 
+
+
+se4_met
+N
+E
+99
+ 2 
+ 2 
+ 2 
+ 54 
+ 0 
+Se4_met
+
+se4_met>se3_met.and.se4_met<=28
+O dia de ser maior que o 1o. dia da 3a. semana e menor ou igual a 28.
+se3_met+7
+1o. dia da 4a. e ultima semana. Pressione F5 para calendario.
+
+ 0 
+ 0 
+
+
+ 15 
+Gasto sem. 1
+MET_03F9()
+@E 9,999,999.99
+ 6 
+ 19 
+ 12 
+
+Gasto sem. 2
+MET_04F9()
+@E 9,999,999.99
+ 7 
+ 19 
+ 12 
+
+Gasto sem. 3
+MET_05F9()
+@E 9,999,999.99
+ 8 
+ 19 
+ 12 
+
+Gasto sem. 4
+MET_06F9()
+@E 9,999,999.99
+ 9 
+ 19 
+ 12 
+
+Esp. Sem. 1
+met_met/4
+@E 9,999,999.99
+ 6 
+ 34 
+ 12 
+
+Esp. Sem. 2
+MET_09F9()
+@E 9,999,999.99
+ 7 
+ 34 
+ 12 
+
+Esp. Sem. 3
+MET_10F9()
+@E 9,999,999.99
+ 8 
+ 34 
+ 12 
+
+Esp. Sem. 4
+MET_11F9()
+@E 9,999,999.99
+ 9 
+ 34 
+ 12 
+
+Res. Sem. 1
+(met_met/4)-met_03f9()
+@E 9,999,999.99
+ 6 
+ 49 
+ 12 
+
+Res. Sem. 2
+met_09f9()-met_04f9()
+@E 9,999,999.99
+ 7 
+ 49 
+ 12 
+
+Res. Sem. 3
+met_10f9()-met_05f9()
+@E 9,999,999.99
+ 8 
+ 49 
+ 12 
+
+Res. Sem. 4
+met_11f9()-met_06f9()
+@E 9,999,999.99
+ 9 
+ 49 
+ 12 
+
+Total Esperado
+met_met
+@E 9,999,999.99
+ 11 
+ 34 
+ 12 
+
+Total Gasto
+MET_07F9()
+@E 9,999,999.99
+ 11 
+ 19 
+ 12 
+
+Restante
+MET_08F9()
+@E 9,999,999.99
+ 11 
+ 49 
+ 12 
+
+ 0 
+ 0 
+ 0 
+ 0 

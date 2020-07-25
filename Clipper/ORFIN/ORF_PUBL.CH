@@ -1,0 +1,19 @@
+/*
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \ Empresa.: MCB SISTEMAS
+ \ Programa: ORF_PUBL.CH
+ \ Data....: 04-10-06
+ \ Sistema.: ORCAMENTO DE FINAIS DE SEMANA
+ \ Funcao..: Define vari veis p£blicas
+ \ Analista: MARCIUS C. BEZERRA
+ \ Criacao.: GAS-Pro v4.0o
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+*/
+
+SET EPOCH TO 1910          // prepara datas para o terceiro milˆnio
+SET KEY K_F5 TO cale       // F5, ativa calendario
+SET KEY K_F6 TO maqcalc    // F6, ativa calculadora
+nu_calc=0.00; fgint = .f.
+SET KEY K_ALT_V TO ve_rel  // ALT-V, ve relatorio gravado em disco
+
+* \\ Final de ORF_PUBL.CH

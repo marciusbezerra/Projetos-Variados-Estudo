@@ -1,0 +1,168 @@
+GAS-Pro v4.0
+020004023078001001033001021000176001
+                                                   ,
+[Ÿ]
+[Ÿ]
+ 0 
+ 0 
+
+
+
+
+
+
+
+
+
+003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+Nome da empresa
+nemp
+
+ 1 
+ 2 
+ 12 
+
+T¡tulo aplica‡„o
+nsis
+
+ 2 
+ 2 
+ 29 
+
+Data do sistema
+DATE()
+
+ 1 
+ 54 
+ 10 
+
+Nome do mˆs
+NMES(DATE())
+
+ 1 
+ 36 
+ 8 
+
+Dia da semana
+NSEM(DATE())
+
+ 1 
+ 45 
+ 7 
+
+Diret¢rio atual
+LEFT(drvdbf,23)
+
+ 0 
+ 0 
+ 23 
+
+Nome do usu rio
+PADR(usuario,15)
+
+ 2 
+ 58 
+ 15 
+
+Obs do usu rio
+PADR(obs_usuario,15)
+
+ 0 
+ 0 
+ 15 
+
+Rel¢gio hh:mm
+LEFT(TIME(),5)
+
+ 0 
+ 0 
+ 5 
+
+Rel¢gio hh:mm:ss
+LEFT(TIME(),8)
+
+ 1 
+ 65 
+ 8 
+
+ 0 
+ 0 
+ 0 
+ 0 
